@@ -1,4 +1,8 @@
-# ChromeExtensionTest
+# Chrome Extension Tutorial
 
-This is a run through of the Tutorial on how to create Chrome Extensions
+This repo is for practice on how to create Chrome Extensions. 
+Following is the link for tutorial: [Chrome Extension Tutorial](https://developer.chrome.com/extensions/getstarted)
+
+
+
 
